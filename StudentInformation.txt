@@ -1,0 +1,11 @@
+﻿Student number        Name                        course                                year
+1234                        Muthoni Kahuko        Law                                2
+5678                        Bryan Mutinda                Computer Science                1
+3566                        Carrie Kariuki                International Relations        3
+8990                        John Njenga                Financial Economics                4
+7490                        Elizabeth white        Acturial Science                2
+2992                        Adam Mutahi                Engineering                        3
+8293                        Fiona Kamau                Pyschology                        1
+6380                        James Oluoch                Law                                4
+3790                        Mary Nyambura        Computer Science                3
+6793                        Lione Kipchoge        Pyschology                        1
